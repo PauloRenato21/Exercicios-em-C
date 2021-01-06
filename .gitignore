@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Exe_Banco/Banco.cbp
+Exe_LadosTriangulo_28.12.19/Makefile.win
+*.layout
+*.dev
+*.cbp
+*.depend
